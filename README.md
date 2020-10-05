@@ -24,15 +24,19 @@ Um dos critérios de avalação seria o não uso de bibliotecas externas.
 Resultado com imagens:
 
 Antes
+<br>
 <img src="imagens/1 antes.jpg"/>
 
 Depois
+<br>
 <img src="imagens/1 depois.jpg"/>
 
 Antes
+<br>
 <img src="imagens/2 antes.jpg"/>
 
 Depois
+<br>
 <img src="imagens/2 depois.jpg"/>
 
 
