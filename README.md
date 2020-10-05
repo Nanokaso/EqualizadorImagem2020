@@ -14,6 +14,7 @@ Construir o algoritmo de equalização em qualquer linguagem de programação. A
 
 Na interface de usuario se tem dois botões para escolha de como equalizar uma imagem 
 > como vetor (conforme solicitado pelo professor)
+
 > como imagem (totalmente feito por mim).
 
 Um dos critérios de avalação seria o não uso de bibliotecas externas.
