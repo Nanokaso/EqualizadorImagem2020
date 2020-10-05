@@ -24,15 +24,17 @@ Um dos critérios de avalação seria o não uso de bibliotecas externas.
 Resultado com imagens:
 
 Antes
-![Alt text](imagens/1 antes.jpg)
+<img src="imagens/1 antes.jpg"/>
 
 Depois
-![Alt text](imagens/1 depois.jpg)
+<img src="imagens/1 depois.jpg"/>
 
 Antes
-![Alt text](imagens/2 antes.jpg)
+<img src="imagens/2 antes.jpg"/>
 
 Depois
-![Alt text](imagens/2 depois.jpg)
+<img src="imagens/2 depois.jpg"/>
+
+
 
 
