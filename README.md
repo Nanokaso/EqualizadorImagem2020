@@ -19,3 +19,20 @@ Na interface de usuario se tem dois botões para escolha de como equalizar uma i
 
 Um dos critérios de avalação seria o não uso de bibliotecas externas.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Resultado com imagens:
+
+Antes
+![Alt text](imagens/1 antes.jpg)
+
+Depois
+![Alt text](imagens/1 depois.jpg)
+
+Antes
+![Alt text](imagens/2 antes.jpg)
+
+Depois
+![Alt text](imagens/2 depois.jpg)
+
+
