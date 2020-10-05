@@ -1,2 +1,20 @@
 # EqualizadorImagem
 Algoritmo de equalizar uma imagem
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Proposta
+
+Construir o algoritmo de equalização em qualquer linguagem de programação. A entrada é um vetor com uma linha de pixels da imagem e a saída é a mesma linha já equalizada (20 pixels).
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Na interface de usuario se tem dois botões para escolha de como equalizar uma imagem 
+> como vetor (conforme solicitado pelo professor)
+> como imagem (totalmente feito por mim).
+
+Um dos critérios de avalação seria o não uso de bibliotecas externas.
+
