@@ -28,7 +28,7 @@ namespace EqualizadorDeImagem
                     contagem.Add(valores[i]);
 
                 if (contagem.Count > 0)
-                    L = contagem.OrderByDescending(x => x).First() + 1;
+                    L = contagem.Count;
             }
 
             List<int> Hk = new List<int>();
